@@ -8,7 +8,7 @@
 
 <img src="https://static.scientificamerican.com/sciam/cache/file/8BC69D77-99DF-46CB-B029DF3BDF632453_source.jpg?w=690&h=930&6ADB0F0C-1409-4AA8-A1B85180336808F5" alt="FoodWaste">
 
-<h2> Environmental Impacts </h2>
+<h3> Environmental Impacts </h3>
 <p> Food waste produces about 67 million metric tons of methane each year. This accounts for about 20% of the world's methane emissions. Methane is 80 times more harmful to the Earth than CO2. </p>
 <a href='https://www.iea.org/reports/global-methane-tracker-2022/methane-and-climate-change'> More on Methane's Impact</a>
 
@@ -23,7 +23,7 @@
 </ul>
 
 <h3> SB 1383 </h3>
-<p> SB 1383 is a law implemented by California to help reduce food waste and emissions caused by it. This program includes the implementation of mandatory waste bins that are dedicated for composting. Food scraps, spoiled food, tea bags and coffee grounds, food-soiled paper, yard trimmings, etc. can all be put into this green waste bin. <p/>
+<p> SB 1383 is a law implemented by California to help reduce food waste and emissions caused by it. This program includes the implementation of mandatory waste bins that are dedicated for composting. Food scraps, spoiled food, tea bags and coffee grounds, food-soiled paper, yard trimmings, etc. can all be put into this green waste bin. </p>
 <a href='https://calrecycle.ca.gov/organics/slcp/education/'> More on SB 1383 </a>
 
 ---
