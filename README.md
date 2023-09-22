@@ -23,7 +23,7 @@
 </ul>
 
 <h3> SB 1383 </h3>
-<p> SB 1383 is a law implemented by California to help reduce food waste and emissions caused by it. This program includes the implementation of mandatory waste bins that are dedicated for composting. Food scraps, spoiled food, tea bags and coffee grounds, food-soiled paper, yard trimmings, etc. can all be put into this green waste bin. </p>
+<p> SB 1383 is a law implemented by California to help reduce food waste and the emissions caused by it. This program includes the implementation of mandatory waste bins that are dedicated for composting. Food scraps, spoiled food, tea bags and coffee grounds, food-soiled paper, yard trimmings, etc. can all be put into this green waste bin. </p>
 <a href='https://calrecycle.ca.gov/organics/slcp/education/'> More on SB 1383 </a>
 
 ---
