@@ -13,6 +13,7 @@
 
 > Food loss and waste also exacerbates the climate change crisis with its significant greenhouse gas (GHG) footprint. Production, transportation, and handling of food generate significant Carbon Dioxide (CO2) emissions and when food ends up in landfills, it generates methane, an even more potent greenhouse gas (USDA).
 <br>
+
 <a href='https://www.iea.org/reports/global-methane-tracker-2022/methane-and-climate-change'> More on Methane's Impact</a>
 
 
