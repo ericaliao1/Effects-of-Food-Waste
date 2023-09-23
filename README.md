@@ -10,7 +10,13 @@
 
 <h3> Environmental Impacts </h3>
 <p> Food waste produces about 67 million metric tons of methane each year. This accounts for about 20% of the world's methane emissions. Methane is 80 times more harmful to the Earth than CO2. </p>
+
+> Food loss and waste also exacerbates the climate change crisis with its significant greenhouse gas (GHG) footprint. Production, transportation, and handling of food generate significant Carbon Dioxide (CO2) emissions and when food ends up in landfills, it generates methane, an even more potent greenhouse gas (USDA).
+<br>
 <a href='https://www.iea.org/reports/global-methane-tracker-2022/methane-and-climate-change'> More on Methane's Impact</a>
+
+
+
 
 <h2> How to Prevent Food Waste </h2>
 <p> To prevent food waste, you can:</p>
